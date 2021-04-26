@@ -1,5 +1,5 @@
 # leyou
-乐优商城项目后台
+乐优商城项目
 # leyou-master目前包含的微服务
 1.zuul网关  
 2.eureka注册中心  
